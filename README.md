@@ -15,7 +15,7 @@ To write a program to predict the marks scored by a student using the simple lin
 5. Visualize and Evaluate: Create scatter plots to visualize data and regression lines for training and testing. Calculate Mean Squared Error (MSE), Mean Absolute Error (MAE), and Root Mean Squared Error (RMSE) to quantify model performance.
 
 
-## Program and Outputs:
+## Program :
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
@@ -75,24 +75,28 @@ plt.ylabel("Scores")
 plt.show()
 ```
 
+### Outputs:
+# Preview datasets
 ![EX_2_OUTPUT_1](https://github.com/user-attachments/assets/abf51aaf-f29d-4794-a2e9-b638dbf0c764)
 
 
+# X initialization
 ![EX_2_OUTPUT_2](https://github.com/user-attachments/assets/3a252f54-c098-4d6c-a496-ea16d2adb1db)
 
 
+# Y initialization
 ![EX_2_OUTPUT_3](https://github.com/user-attachments/assets/ae4d1ec9-f271-4f7c-9c22-a65b8f895357)
 
-
+# Y_Predict 
 ![EX_2_OUTPUT_4](https://github.com/user-attachments/assets/0ee57c9f-0409-4bf3-ac46-c9270084d450)
 
 
 ![EX_2_OUTPUT_5](https://github.com/user-attachments/assets/9a8ccba3-ee77-4356-b0d8-2557f22f1737)
 
-
+# Training Set
 ![EX_2_OUTPUT_6](https://github.com/user-attachments/assets/aa944e6c-8e33-4956-af3c-1dbdc2771048)
 
-
+# Test Set
 ![EX_2_OUTPUT_7](https://github.com/user-attachments/assets/064e8818-0dcf-4f4b-83b9-bc28596e212c)
 
 
