@@ -97,7 +97,7 @@ plt.show()
 ![EX_2_OUTPUT_6](https://github.com/user-attachments/assets/aa944e6c-8e33-4956-af3c-1dbdc2771048)
 
 # Test Set
-![EX_2_OUTPUT_7](https://github.com/user-attachments/assets/064e8818-0dcf-4f4b-83b9-bc28596e212c)
+![EX_2_OUTPUT_7](https://github.com/user-attachments/assets/8dd7bfe0-c4d9-4d27-b523-c1fe23498b54)
 
 
 ## Result:
